@@ -17,7 +17,7 @@ class Home extends React.Component {
               <div className="columns is-vcentered">
                 <div className="column is-5 is-offset-1 landing-caption">
                   <h1 className="title is-1 is-bold is-spaced">
-                      ajahskj 
+                      arslan khan
                   </h1>
                   <h2 className="subtitle is-5 is-muted">Lorem ipsum sit dolor amet is a dummy text used by typography industry </h2>
                   <p>
